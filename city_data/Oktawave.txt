@@ -1,0 +1,261 @@
+
+Terms and conditions of Oktawave service to consumers
+
+DEFINITIONS
+
+
+
+ENTERING INTO THE AGREEMENT
+In order to enter into the Agreement and to obtain access to the Services it is necessary to register into the Cloud using an e-registration form which the Service Provider	makes	available	at https://admin.oktawave.com/Pages/CreateAccount.aspx.
+
+This registration creates the User Account within the Cloud. During the registration the User must provide basic information which is needed for the Cloud and the Services to be provided to the User, in particular: first and last name, contact data (e-mail and phone number, address of current stay, address of permanent residence) PESEL, login, password, payer information.
+
+The Agreement takes effect when all the following conditions have been fulfilled:
+
+registration and creation of the User Account in the Cloud,
+
+acceptance of these Terms and Conditions by clicking in an appropriate form that the User accepts these Terms and Conditions,
+
+filling out an appropriate form confirming the choice of the Service parameters at the User Account level,
+
+the Fee paid in accordance with Section 7 of these Terms and Conditions.
+
+By accepting these Terms and Conditionsthe User declares that:
+
+the User has read these Terms and Conditionsand accepts them without any reservations,
+
+the User has entered into the Agreement freely,
+
+the data included in the registration form as well as declarations provided in these Terms and Conditions are true and correct.
+
+The Agreement includes these Terms and Conditions (as well as all their integral parts, including the SLA and the Price List) and a form confirming the selection of the Service parameters. The Agreement is saved in the User Account, and then available to the User in the User Account. The Agreement is secured by an encryption.
+
+The User may correct any mistakes in the User authentication data in the User Account.
+
+OBLIGATIONS OF THE SERVICE PROVIDER
+The Service Provider provides the User with access to the Cloud and the Services, including the hardware infrastructure and computing power (including processors and operational memory) in accordance with the provisions of SLA, specified in Section 13 of these Terms and Conditions.
+
+The Service Provider also provides the Standard Technical Assistance via the User Account, e-mail or by telephone.
+
+In the light of the Providing Electronic Services Act of 18 July 2002, the Service Provider is not an initiator of the User Data transfer by the User in connection with access to and use of the Services, does not select a recipient of the User Data transfers, and does not select or modify the User Data (host). This means that the Service Provider only supplies technical resources in the form of access to Services, and it is up to the User how the User makes use of the Services. The Service Provider does not monitor the content of the User Data.
+
+The Service Provider provides the Services which, due to their nature, cannot be returned.
+
+The User hereby agrees for the Services to be provided to the User immediately after entering into the Agreement, that is before the lapse of a 10-day period when the User is entitled withdraw from Agreement.
+
+Taking into account the nature of the Services which, due to their nature, cannot be returned, and the fact that Services will be provided based on the User’s approval immediately after entering into the Agreement, the User will not be entitled to a 10-day period for the withdrawal from the Agreement as specified in the Act of 2 March 2000 on the protection of certain consumer rights and on liability for damage caused by a dangerous product (extracts provided for in Article
+10.3 (1) and (5) of that Act apply).
+
+OBLIGATIONS OF THE USER
+The User is obligated to:
+
+observe these Terms and Conditions and applicable law when accessing and using the Services,
+
+ensure properly secured access to and use of the Services, including passwords used for access to and use of the Services, and no access to the Services by unauthorized persons; the User is liable for any breach of the data security resulting from an improperly secured access to and use of the Services,
+
+pay the Fee for accessing the Cloud and the Services,
+
+cooperate with the Service Provider in cases specified in these Terms and Conditions,
+
+immediately update information included in the registration form and the User Account,
+
+immediately notify the Service Provider of any unauthorized access to the Services, unauthorized disclosure or access to data which enable authentication within the Cloud (e.g. passwords), unauthorized use of the Services or any other security breach,
+
+keep at least one updated back-up of the User Data transferred to or via the Cloud (including data stored using the Services); the User is obligated to keep back-up copies in a different infrastructure than the infrastructure provided by the Service Provider,
+
+obtain adequate titles, including intellectual property rights, to the User Data, in particular to ensure the rights for the Service Provider, the Service Provider’s sub-contractors and entities cooperating with the Service Provider in the scope necessary for providing the Services.
+
+The User is solely responsible for the User Data.
+
+The User undertakes to use the Services in accordance with the applicable law, principles of social coexistence and good practice, and respect the rights of third parties. The User undertakes in particular to refrain from infringing:
+
+personal data protection,
+
+personal goods, including in particular image, right to privacy or confidentiality of correspondence,
+
+intellectual property rights, in particular copyright and related rights (namely proprietary copyright and moral rights) as well as industrial property rights (including rights to inventions, utility models, industrial designs, trade marks, geographical indications and layout design of integrated circuits) and know-how,
+
+secrecy protected by law, including proprietary information and trade secrets,
+
+security of information, including information processed by ICT systems,
+
+public order, principles of social coexistence and good practice, in particular by refraining from posting or disseminating certain contents, including fascist or other totalitarian philosophy propagating hate based on nationality, ethnic, sex, race or religious background, abusive content and profanity,
+
+rights resulting from the Providing Electronic Services Act of 18 July 2002, and in particular to online mailing of unsolicited advertising and marketing information.
+
+ACCESS TO THE SERVICES
+In order to use the Services the User must fulfil the following minimum technical requirements:
+
+having a device which enables access to the internet, together with an installed internet browser: Firefox 7 or an upgraded version, or Internet Explorer 9 or an upgraded version; or Chrome 15 or an upgraded version; Opera 11.52 or an upgraded version; or Safari 6 or an upgraded version, technology supporting Ajax, HTML5 and JavaScript and SSL protocol,
+
+having access to the internet.
+
+The User will obtain access to the Cloud and the Services directly after purchasing the Tariff Units. The Service Provider will start providing the Service the User selects once the User selects the Service parameters. The User may select the Services using the User’s User Account.
+
+Once the Tariff Units are bought in accordance with Section 7 of these Terms and Conditions, the User may, using the User’s Account available in the Control Panel or using API Oktawave, specify the Services parameters which User wishes to use.
+
+TERM OF THE AGREEMENT
+The Agreement will be entered into for a definitive period and will include the period in which the Tariff Units used for accounting for Services are valid, or the period up to the consumption of the Tariff Units the User buys (and the period of a possible suspension of access to the Service due to a delayed payment of the Fee by the time indicated in the Service Provider’s notice in accordance with Section 8.3. of these Terms and Conditions).
+
+THE FEE AND THE TARIFF UNITS
+The Service Provider will charge the Fees for providing the User with access to the Cloud and the Services.
+
+The Fees will be collected in advance before the Service Provider provides the User with access to the Cloud.
+
+Access to the Cloud and the Services will be calculated in the Tariff Units. The Price List contains a calculator based on which the Services can be activated and in accordance with which the Services are activated.
+
+The User may purchase the Tariff Units by remitting to the Service Provider’s account an amount corresponding to the value of the Tariff Units in accordance with the Price List. The Service Provider may introduce enable payments for the Tariff Units by credit card or another means.
+
+The Tariff Units expire after the lapse of the period specified in the Price List (the Tariff Units’ validity period) and cannot be used for any settlement of the Services.
+
+The Tariff Units are settled against a fee and are not subject to reimbursement (one cannot demand reimbursement of the amount for which they were bought).
+
+The Tariff Units enable the User to access the Cloud and the Services in the amount specified in the Price List and depending on the parameters of the Services selected.
+
+Once the Tariff Units bought by the User are consumed or their validity period expires, the Service Provider will disable the User access to the Services.
+
+The User agrees to receive and provide access to invoices for the Services by e-mail in a PDF format.
+
+Invoices will be issued every time the User buys the Tariff Units.
+
+SUSPENSION OF ACCESS TO THE SERVICES
+In relation to the Providing Electronic Services Act of 18 July 2002, the Service Provider may suspend the User’s access to the Cloud or the Services or the User Data if at least one of the following events takes place:
+
+an official note or reliable information has been received or there is a justified suspicion that the Services have been used not in compliance with these Terms and Conditions, or applicable legislation, principles of social coexistence or good practice,
+
+the User does not cooperate in cases where such cooperation is needed in order to determine whether the Services were accessed or used not in compliance with these Terms and Conditions, or applicable law, principles of social coexistence or good practice,
+
+the Service Provider has a justified suspicion that the User Account or the Services have been accessed without the User’s authorization or that the Services have been used without the User’s authorization,
+
+the Service Provider has a justified suspicion that it is necessary to suspend the Services in order to protect the integrity, accessibility and security of the Cloud or other User,
+
+the Fee for the Services has not been paid,
+
+such an obligation has arisen under applicable law or as a result of a decision of public authorities or courts.
+
+The User will be notified about the suspension and its reasons immediately after access to the Services has been suspended.
+
+If the suspension results from circumstances for which the User is liable, the Service Provider will reinstate the Services if the User removes the cause of the suspension within a deadline the Service Provider specifies in the notice.
+
+TERMINATION OF THE AGREEMENT
+The Service Provider may terminate the Agreement by a 30-day notice for the following reasons:
+
+the Service Provider decided to stop providing the Service,
+
+the Service Provider decided to wind up its business,
+
+the Service Provider decided to change its business profile in whole or in part,
+
+due to other important reasons.
+
+The Service Provider may terminate the Agreement with an immediate effect if the Services are suspended due to causes for which the User is responsible, and the User has not eliminated the cause of suspension within a deadline the Service Provider specifies in accordance with Section 8.3 above, or within 7 days from receiving a notice from the Service Provider.
+
+As of the moment the Agreement is terminated, the User loses access to all the User Data and the User Data may be deleted unless the User has bought access to Oktawave Cloud Storage or Oktawave Volume Storage, in accordance with the Price List and the SLA.
+
+If the User has paid the Fee for access to the Services in the period following the termination of the Agreement, the Fee paid in excess will be reimbursed pro rata for any period longer than the term of the Agreement.
+
+ENABLING ACCESS TO THE USER DATA
+During the period in which access to the Services is suspended in accordance with Section 8 of these Terms and Conditions, the User will have no access to the User Data. The User Data will, however, be stored by the Service Provider and after the cause of suspension is removed, the User will be able to access the User Data again.
+
+None of the Services provided by the Service Provider includes making back-up copies of the User Data. In connection with this the User is obligated to possess at least one back-up copy of the User Data in accordance with Section 4.1.7 of these Terms and Conditions.
+
+UNAUTHORIZED ACCESS TO THE USER DATA AND USE OF THE SERVICES
+The User is responsible for access to the Services and use of the Services by persons whom the User authorizes to access or use the Services or by persons to whom the User provides information on how to authenticate oneself for the Cloud and User Account, including actions and omissions of such persons, and for the User’s own actions or omissions in relation to securing access to the Services, including information on authentication, also if performed by a person whom the User has not authorized.
+
+RESTRICTIONS RESULTING FROM THE PROVISION OF E-SERVICES
+The User acknowledges that the use of the Services in the form of e-services involves typical risks related to data transfers over the internet.
+
+While providing the Services, the Service Provider will employ such data transfer security precautions as commonly employed in the sector due to the properties of the Cloud and Cloud Resources, in particular precautions which deny access to data to any unauthorized persons, including the use of encryption protocols.
+
+THE SERVICE LEVEL AGREEMENT
+The SLA will define a level of the Services the Service Provider provides to the User.
+
+The SLA forms an integral part of these Terms and Conditions.
+
+The	SLA	is	always	available	at: [http://www.oktawave.com/en/termsconditions.htm], also in a PDF format.
+
+WARRANTY
+The Service Provider will warrant such access to the Services as defined in the SLA.
+
+If the quality level of the Service provided to the User fails to conform to the Service standards as specified in the SLA, the User will be entitled to a discount based on the principles specified in the SLA.
+
+PERSONAL DATA
+The User hereby acknowledges that in order to perform and settle the Agreement, the Service Provider will process the User’s personal data as well as that of payers, in the scope: (i) included in the registration form or (ii) included in the User Account and (iii) information about payers and payments, (iv) information about the Services provided to the User and their settlement. The provision of such personal data will be optional, however needed to enter into, perform and settle the Agreement. The Service Provider will be the controller of this personal data. The User may exercise the right to access and correct the User data using the User Account. Additionally, the User and other natural persons whose personal data is
+
+processed in connection with providing the Services to the User may exercise their right to access and correct their data at the following address customer@oktawave.com or at the Service Provider mailing address, namely ul. Domaniewska 44a, 02-672 Warszawa.
+
+The User Data may comprise personal data. The User hereby allows the Service Provider to process such personal data in the scope which is necessary to provide the Services by the Service Provider, and for the purpose for which the Services are provided. If, in accordance with Section 23.2 of these Terms and Conditions, the Service Provider provides the Services jointly with sub-contracting entities or on their behalf, and in the scope in which, while providing the Services these sub- contractors are going to process the User Data, the User authorizes the sub- contractors cooperating with the Service Provider to process such personal data for the purpose and in the scope which is necessary to provide the Services to the User.
+
+If, in accordance with Section 23.1. of these Terms and Conditions, the Service Provider uses sub-contractors to provide the Services, in the scope in which the User Data which is deemed personal data is to be processed by the sub-contractors, the User hereby authorizes the Service Provider’s subcontractors to process such personal data for the purpose and in the scope which is necessary to provide the Services to the User.
+
+The Service Provider will provide the User with access, via the Cloud, to current information about entities that participate in the User Data processing.
+
+The Service Provider hereby declares to have implemented any and all security precautions, as defined in the Personal Data Protection Act of 29 August 1997 and in the Ordinance of the Minister of Interior of 29 April 2004 concerning records of personal data processing as well as technical and structural conditions to be fulfilled by IT devices and systems for personal data processing. In particular, by using an encryption theService Provider ensures security of integrity and confidentiality of personal data transferred over the internet, including data used for the User’s authentication.
+
+HANDLING COMPLAINTS
+The User may address any reservations concerning access to the Services, their use or operation in a form of a complaint to the Service Provider. Complaints may be lodged with the Service Provider by means of the User Account or to the following email address customer@oktawave.com by submitting a filled out complaint form to the Service Provider, or by telephone at the following number +48 22 10 10 555 or by a regular mail to the following address: ul. Domaniewska 44a; 02-672 Warszawa.
+
+DUAL-USE SERVICES AND ITEMS
+The User hereby declares to use the Services exclusively for civil purposes and not for the purpose of producing nuclear, chemical or biological weapons, missiles or for other military purposes. The User acknowledges that in the scope of exporting the Services which might be deemed a dual-use of goods or services as specified in the Act of 29 November 2000 on the foreign trade with goods, technologies and
+
+services which are strategic for the state security and for the maintenance of international peace and safety, the User will comply with the generally applicable Polish and European Union law.
+
+CONFIDENTIAL INFORMATION
+Any information which the Parties obtain as a result of entering into the Agreement and providing the Services and which is not publicly available, will be deemed confidential and protected (Confidential Information). The Parties will keep the Confidential Information secret. The Parties undertake not to copy, replicate, sell, transfer, license, market, convey or otherwise trade, dispose of or disclose such information to any third parties. The Parties undertake not to use such information for other purposes than to perform and settle the Agreement. The Parties will ensure that these confidentiality obligations are fulfilled by all their representatives.
+
+The Confidential Information will not include:
+
+the fact of entering into the Agreement,
+
+information which is or is going to be published otherwise than as a result of its being disclosed by a Party as a consequence of violating these Terms and Conditions,
+
+information in relation to which a Party can prove knowing it earlier as not covered by a confidentiality obligation,
+
+information which a Party created independently of any reference to the Confidential Information,
+
+information which a Party duly obtained from a third party that was not bound by a confidentiality obligation, or
+
+information which must be disclosed based on relevant legislation or decisions issued by courts or other public authorities.
+
+LIABILITY FOR LOSS OF THE USER DATA
+Taking into account that no Service provided to the User includes the creation of back-up copies of the User Data, and that the User is obliged to keep a back-up copy of the User Data of their own, the User will be liable for any and all loss of the User Data.
+
+The Service Provider is not liable for any loss of the User Data unless the User has subscribed to Oktawave Cloud Storage or Oktawave Volume Storage. In such case the Service Provider’s liability in connection to the loss of the User’s Data is regulated by the SLA.
+
+CONTACTS WITH THE USER
+Any contacts between the Service Provider and the User, including notifications, information and statements, in particular in relation to any suspension of access to the Services, termination of the Agreement, handling complaints, will be made by electronic means of communication, including the User Account or e-mail address indicated for contacts by the User or by regular mail. Any correspondence to the Service Provider will be delivered to: ul. Domaniewska 44a; 02-672 Warszawa; any correspondence to the User will be delivered to the mailing address the User provides.
+
+INTELLECTUAL PROPERTY RIGHTS
+Any intellectual property rights related to the provision of the Services to the User, in particular to the Cloud graphic elements such as Oktawave logo, website layout and particular applications, website content, trade marks, names and other indications, as well as the Cloud technical solutions, its concept of operation, functionality, data bases, software and technical documentation, will remain the exclusive property of the Service Provider or entities cooperating with the Service Provider.
+
+In the scope which is necessary for the Cloud and Services to be used and for the period the User uses the Service, the Service Provider hereby grants the User a non- exclusive licence to use the software designed for the use of the Services.
+
+In the scope in which the Services are provided by entities cooperating with Service Provider or jointly with entities cooperating with the Service Provider, the relevant terms and conditions concerning intellectual property rights of these entities, possible licences granted by the entities to the User or possible licences which must be granted to these entities in order for the Services to be provided, have been listed in terms and conditions and agreements concerning the provision of services by the entities, links to which can be found on a case by case basis before selecting the relevant Service from the User Account level.
+
+In the scope in which the provision of the Service by the Service Provider and the User’s use of the Service involves the use by the Service Provider, the Service Provider’s sub-contractors or agents, of intellectual property rights to the User Data (in particular that related to operation of software other than that provided by the Service Provider), the User hereby grants a licence to the Service Provider, Service Provider’s sub-contractors or entities cooperating with the Service Provider to use such intellectual property rights (including the software licence) for the period of providing the Services and in order for the Services to be provided correctly or, in the scope in which the User is not authorized to grant such licences, the User undertakes to obtain such licence from an authorized entity on behalf of the Service Provider, the Service Provider’s sub-contractors or cooperating agents for using the intellectual property rights for period of providing the Services and for the purposes of a correct provision of the Services.
+
+ASSIGNMENT OF CONTRACTUAL RIGHTS AND OBLIGATIONS
+The User will not assign any rights or obligations arising from the Agreement in whole or in part to any person without the Service Provider’s approval.
+
+SUB-CONTRACTORS AND ENTITIES COOPERATING WITH SERVICE PROVIDER
+The Service Provider may authorise sub-contractors to provide the Services in whole or in part. The Service Provider is liable for actions or omissions of the sub- contractors as for the Service Provider’s own actions or omissions.
+
+The Service Provider may provide the Services jointly with the entities cooperating with the Service Provider or on their behalf. Information about cooperation with the cooperating entities, as well as about the terms and conditions or agreements concerning these entities, which affect the terms and conditions of providing the Services by the Service Provider will be available on a case by case basis before selecting a given Service from the User Account level. The User must read such terms and conditions and agreements and accept them in order to execute the Agreement for the Services concerned.
+
+FORCE MAJEURE
+None of the Parties is liable for delays, non-performance or improper performance of the Agreement if such delay, non-performance or improper performance results from an event of force majeure.
+
+GOVERNING LAW AND JURISDICTION
+The Agreement is governed by the laws of Poland.
+
+Any disputes related with the Service will be referred to a common court.
+
+AMENDMENTS TO THESE TERMS AND CONDITIONS
+The Service Provider reserves the right to amend these Terms and Conditions in case of a need to adjust these Terms and Conditions to: (i) law amendments, procedures of state bodies or case law of common courts and arbitration tribunals;
+(ii) changes of market practices or changes in technology; (iii) changes of business plans concerning the provision of the Services, (iv) changes of regulations and agreements entered into with entities cooperating with the Service Provider, (v) any other important causes. Each material amendment will be notified to the User by sending information to the User Account within the Cloud or by e-mail to the e- mail address indicated for contacts in the User Account at least thirty (30) days before an amendment to these Terms and Conditions takes effect.
+
+If the User explicitly approves the amended Terms and Conditions before the lapse of the deadline specified in Section 26.1. of these Terms of Conditions or if, following the deadline specified in Section 26.1. of these Terms of Conditions the User keeps using the Cloud and Services, the User will be understood to have
+
+approved the amendment to these Terms and Conditions and the Services will further be provided to the User under the terms and conditions as specified in the amended Terms and Conditions.
+
+If the User explicitly disapproves the amendments to these Terms and Conditions, the Agreement will be terminated as of the date of the amendments concerned take effect. Any and all reimbursements of the Fee will be handled in accordance with Section 9.5 of these Terms of Conditions.
